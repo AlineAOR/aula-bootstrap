@@ -1,0 +1,44 @@
+.navbar{
+    background-color: #A9F5E1;
+}
+
+.nav-link{
+    color: #0A2A29;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+.quem-somos{
+    background-color:#EFF8FB;
+    
+}
+
+.margin{
+    padding-top: 50px;
+}
+
+.parceiros{
+    padding-top: 60px;
+    background-color:#EFF8FB;
+}
+
+.servicos{
+    background-color:#EFF8FB;
+}
+
+.imagens{
+margin-top: 30px;
+}
+
+.texto{
+    padding-top: 60px;
+}
+
+.dio{
+    padding-top: 60px;
+}
+
+.rodape{
+    padding-top: 60px;
+    background:#EFF8FB ;
+}
